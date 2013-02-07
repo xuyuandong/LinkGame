@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Linker", "Linker\Linker.vcproj", "{CE2D09BA-A617-4DC3-AAFD-E0CC7437928A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LinkerSetup", "LinkerSetup\LinkerSetup.vdproj", "{A9CF6EBB-D4A7-49CD-9AD8-210BA38697F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE2D09BA-A617-4DC3-AAFD-E0CC7437928A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CE2D09BA-A617-4DC3-AAFD-E0CC7437928A}.Debug|Win32.Build.0 = Debug|Win32
+		{CE2D09BA-A617-4DC3-AAFD-E0CC7437928A}.Release|Win32.ActiveCfg = Release|Win32
+		{CE2D09BA-A617-4DC3-AAFD-E0CC7437928A}.Release|Win32.Build.0 = Release|Win32
+		{A9CF6EBB-D4A7-49CD-9AD8-210BA38697F9}.Debug|Win32.ActiveCfg = Debug
+		{A9CF6EBB-D4A7-49CD-9AD8-210BA38697F9}.Release|Win32.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
